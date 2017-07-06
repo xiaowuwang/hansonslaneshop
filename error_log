@@ -1,0 +1,3 @@
+[06-Jul-2017 02:45:38 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/shophansonslane/public_html/git-php-webhook.php on line 29
+[06-Jul-2017 02:49:19 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/shophansonslane/public_html/git-php-webhook.php on line 29
+[06-Jul-2017 02:49:45 UTC] PHP Strict Standards:  mktime(): You should be using the time() function instead in /home/shophansonslane/public_html/git-php-webhook.php on line 29
