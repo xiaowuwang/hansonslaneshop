@@ -11,7 +11,7 @@
 if (version_compare(PHP_VERSION, 5.3, '>='))
 {
   // put your timezone here. Refer to http://www.php.net/manual/en/timezones.php
-  $TZ = 'Asia/Shanghai';  // eg: 'Europe/Oslo, Pacific/Auckland'
+  $TZ = 'Pacific/Auckland';  // eg: 'Europe/Oslo'
 
 
 
